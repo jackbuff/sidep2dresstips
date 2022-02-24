@@ -1,0 +1,46 @@
+#for_color
+{
+    background-color: #C9D1C8;
+}
+#heading{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    position: relative;
+    top: 60px;
+    border-bottom-style: solid;
+}
+#bar
+{
+    background-color: #B9C4C9;
+    
+}
+#bar_text
+{
+    color:black;
+}
+#intro{
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+#compose_text{
+    font-family:'Times New Roman', Times, serif;
+}
+#jumbo{
+    background-color:#A1BE95;
+}
+#link{
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    position: relative;
+    text-align: center;
+    border:2px solid black;
+    color:brown
+}
+ul.dropdown-menu
+{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    position: relative;
+    right: 0px;
+}
